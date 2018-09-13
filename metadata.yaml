@@ -1,0 +1,25 @@
+_repo: Motor-Matt-s-Reverse-or-Caught-in-a-Losing-Cause_51343
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Matthews, Stanley R.
+    gutenberg_agent_id: '43601'
+    url: http://www.gutenberg.org/2009/agents/43601
+description: ''
+gutenberg_issued: '2016-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Airplanes -- Juvenile fiction'
+- !lcsh 'Dime novels'
+- !lcsh 'Adventure stories'
+- !lcsh 'Mechanics -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Motor Matt's Reverse; or, Caught in a Losing Cause
+url: http://www.gutenberg.org/ebooks/51343
